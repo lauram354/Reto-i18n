@@ -1,0 +1,19 @@
+{
+    "Position": "Nombre del cargo",
+    "Company": "Empresa",
+    "Salary": "Salario",
+    "City": "Ciudad",
+    "PublicationDate": "Fecha de publicación",
+    "Views": "No. de visitas",
+
+    "name.0001": "Manager",
+    "company.0001": "Schneider Electric",
+    "city.0001": "Bogotá, Colombia",
+    "name.0002": "Ingeniero de Software",
+    "company.0002": "Google Inc.",
+    "city.0002": "Palo Alto, CA, USA",
+    "name.0003": "Enfermera",
+    "company.0003": "Clínica La Aurora",
+    "city.0003": "Cali, Colombia",
+    "salary.plural": "{value, plural, one {# millón} other {# millones}}"     
+}
